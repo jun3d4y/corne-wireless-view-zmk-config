@@ -48,7 +48,7 @@
 &trans  &kp TAB    &kp FR_N7  &kp FR_N8     &kp FR_N9  &bt BT_SEL 0        &kp FR_PLUS          &kp UP_ARROW      &kp UP_ARROW        &kp FR_PLUS       &kp ESCAPE        &trans
 &trans  &kp F12    &kp FR_N4  &kp FR_N5     &kp FR_N6  &bt BT_SEL 1        &kp LEFT_ARROW       &kp DOWN_ARROW    &kp RIGHT_ARROW     &kp FR_COLON      &kp FR_DQT        &trans
 &trans  &kp FR_N0  &kp FR_N1  &kp FR_N2     &kp FR_N3  &kp FR_LESS_THAN    &kp FR_SINGLE_QUOTE  &kp FR_SEMICOLON  &kp FR_EXCLAMATION  &kp FR_AMPERSAND  &kp FR_BACKSLASH  &trans
-                              &kp LEFT_ALT  &trans     &kp SPACE           &kp BACKSPACE        &mo 3             &kp DELETE
+                              &kp LEFT_ALT  &trans     &kp SPACE           &kp BACKSPACE        &mo 3             &kp DEL
             >;
         };
 
